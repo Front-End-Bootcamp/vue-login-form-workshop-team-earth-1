@@ -1,10 +1,12 @@
 <script setup>
 import RegisterComp from './components/Auth/RegisterComp.vue';
+import Logincomp from './components/Auth/Logincomp.vue';
 
 </script>
 
 <template>
 	<RegisterComp />
+	<Logincomp />
 </template>
 
 <style >
